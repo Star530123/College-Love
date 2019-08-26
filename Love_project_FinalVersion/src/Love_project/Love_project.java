@@ -14,9 +14,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextArea;
 import java.io.File; 
-//HI~~~~~~~~~~~~~
-//JOJO  ~~~~~~
-//我不當人類la~~~~~
+//HI~~~~
 public class Love_project extends JFrame implements ActionListener {
 
 	//Yeahhhhhhhhhh
