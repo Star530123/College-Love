@@ -17,6 +17,8 @@ import java.io.File;
 //HI~~~~~~~~~~~~~
 public class Love_project extends JFrame implements ActionListener {
 
+	//Yeahhhhhhhhhh
+
 	int n = 0;// next執行變數
 	int jump = 0;// 按鈕跳走
 	int m = 0;// 結局分支變數
