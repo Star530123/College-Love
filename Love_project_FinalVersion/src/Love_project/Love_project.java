@@ -15,6 +15,8 @@ import javax.swing.JPanel;
 import javax.swing.JTextArea;
 import java.io.File; 
 //HI~~~~~~~~~~~~~
+//JOJO  ~~~~~~
+//我不當人類la~~~~~
 public class Love_project extends JFrame implements ActionListener {
 
 	int n = 0;// next執行變數
